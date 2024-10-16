@@ -15,5 +15,5 @@ title: Ingsis - Students
 - [Ignacio Chevallier](https://github.com/IgnacioChevallier)
 - [Santos Bogo](https://github.com/santosbogo)
 
-##### Resources
+### Resources
 - [Api Keys & Secrets](https://youtu.be/dQw4w9WgXcQ?si=XHBV4MoQQwUaOerc)
