@@ -3,9 +3,7 @@ layout: default
 title: Ingsis - Students
 ---
 
-# Ingsis - Students
-
-## Repositories
+# Repositories
 - [Snippet Service](https://github.com/ingsis-students/ingsis-snippet)
 - [Permission Service](https://github.com/ingsis-students/ingsis-permission)
 - [Printscript Service](https://github.com/ingsis-students/ingsis-parse)
