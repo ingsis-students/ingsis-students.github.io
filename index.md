@@ -3,6 +3,10 @@ layout: default
 title: Ingsis - Students
 ---
 
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/184583241?s=96&v=4" alt="Logo">
+</div>
+
 # Repositories
 - [Snippet Service](https://github.com/ingsis-students/ingsis-snippet)
 - [Permission Service](https://github.com/ingsis-students/ingsis-permission)
